@@ -45,8 +45,8 @@ const Header = () => {
       <Text>LOGO</Text>
       <Flex ml="auto">
         <HStack>
-          <Text>William Lucas</Text>
-          <Avatar size="md" name="william Lucas" />
+          <Text>Calebe Vieira</Text>
+          <Avatar size="md" name="Calebe Vieira" />
         </HStack>
       </Flex>
     </Flex>
